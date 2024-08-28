@@ -2,8 +2,8 @@
 - 👀 I’m interested in Python , Java and Nonebot2
 - 🌱 I’m currently learning Java and Nonebot Maybe Python?
 - 💞️ I’m looking to collaborate on what???
-- 📫 You can email me at chaichaisi@qq.com
-- 🎉 And my QQ number is 3023425570
+- 📫 You can email me at chaichaisi@chaicc.cn
+- 🎉 And my QQ number is Unknown
 - 🎃 My homepage : chaicc.cn 
 
 <!---
